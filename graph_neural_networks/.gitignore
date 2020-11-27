@@ -1,0 +1,5 @@
+modelnet40-normal_numpy/*
+modelnet40-normal_numpy.tar.zip
+.ipynb_checkpoints/*
+citation_networks/data/*
+citation_networks/__MACOSX/*
